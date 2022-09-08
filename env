@@ -1,0 +1,4 @@
+PORT = 5000
+MONGO_URI=mongodb+srv://gagan:gagan@cluster0.zildl.mongodb.net/?retryWrites=true&w=majority
+JWT_SECRET=gagan
+NODE_ENV = production
