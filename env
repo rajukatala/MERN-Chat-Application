@@ -1,4 +1,4 @@
 PORT = 5000
-MONGO_URI=mongodb+srv://rajuram:raju@cluster0.zildl.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://rkatala07:Raju@9024@cluster0.i5ie0yj.mongodb.net/?retryWrites=true&w=majority
 JWT_SECRET=rajuram
 NODE_ENV = production
